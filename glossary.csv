@@ -1,0 +1,171 @@
+﻿,eng,rus
+0,(perforated) wall induced upwash,индукционный скос потока
+1,acoustic splitter,шумопоглотитель щелевого типа
+2,adjustable contraction,регулируемый участок сужения
+3,aeronautical engineering,самолетостроение
+4,aft sting,хвостовая державка
+5,angle of attack,угол атаки (модели)
+6,assembly sequence,последовательность сборки
+7,automated control,автоматизированное управление
+8,auxiliary operations console,вспомогательный пульт управления
+9,auxiliary system,вспомогательная система
+10,axial flow control valve,регулирующий клапан осевого типа
+11,axial length,аксиальная длина
+12,bl thickness,толщина пс
+13,blockage,затенение
+14,blowdown,продувка
+15,blowdown wind tunnel,адт периодического действия
+16,bottom wall porosity coefficient,коэффициент проницаемости нижней стенки
+17,boundary layer (bl),пограничный слой
+18,calibration facilities,аппаратура калибровки
+19,calibration laboratory,калибровочная лаборатория
+20,captive trajectory system,система удержания траектории
+21,casing fairing,обтекатель кожуха
+22,charging,загрузка (напр. компрессора)
+23,closed circuit,замкнутый контур
+24,coefficient of utilization,коэффициент загрузки (аэродинамической трубы)
+25,compression mechanism,прижимной механизм
+26,continuous transonic wind tunnel,трансзвуковая аэродинамическая труба непрерывного действия
+27,continuous wind tunnel,адт непрерывного действия
+28,contouring,формирование контура
+29,contraction zone,коллектор
+30,control room,пультовая
+31,corner,поворотное колено
+32,cylinder row,ряд цилиндров
+33,data acquisition & processing,сбор и обработка данных
+34,design mach number and reynolds number,расчетные значения чисел маха и рейнольдса
+35,design proposal,предложение по проекту
+36,design sketch,"расчетная схема, конструкторский эскиз"
+37,disturbed velocity components,компоненты возмущенной скорости
+38,double shaft scheme,механизм с двойным валом
+39,double turn principle,принцип двойного поворота
+40,downstream,ниже по потоку
+41,driven by axial-flow compressor,с приводом от осевого компрессора
+42,driving mechanism,механизм перемещения
+43,dual sting arrangement (dsa),двойная хвостовая державка
+44,duct,канал
+45,eiffel tunnel,адт конструкции эйфеля (открытого типа)
+46,evaluation technical report,технический отчет по экспертизе
+47,expander,расширитель
+48,external store,внешняя подвеска (внешний подвесной груз)
+49,fan-shaped support strut,стойка веерообразной державки
+50,flow angularity,угол отклонения потока
+51,force sensor,"датчик усилий, силовой датчик"
+52,force transducer,"динамометрический преобразователь, преобразователь силы"
+53,free air velocity,скорость набегающего потока
+54,full simulator,комплексный тренажер
+55,full-span,с полным размахом крыла
+56,function of variable sideslip angle,функция изменения угла скольжения
+57,functional checks,функциональная проверка
+58,gottinger tunnel,адт гёттингенской конструкции (замкнутого типа)
+59,guide pin stuck in the movement,застревание направляющей шпильки во время движения
+60,guide structure,конструкция направляющих
+61,half model,полумодель
+62,handling equipment,погрузочно-разгрузочное оборудование
+63,hardware,аппаратура
+64,hole pattern,схема расположения отверстий 
+65,horizontal walls porosity parameter,параметр проницаемости горизонтальных (верхней и нижней) стенок
+66,hydraulic oil cylinder,гидравлический цилиндр
+67,inclination angle of the upper and lower walls,угол наклона верхней и нижней стенок
+68,inclination angle towards the airflow,угол наклона по направлению к потоку
+69,inlet port,"входное отверстие, впускной канал"
+70,instrumentation,контрольно-измерительное оборудование
+71,intermittent wind tunnel,адт кратковременного\периодического действия
+72,jacks,домкраты (для гибкого сопла)
+73,k-w sst turbulence model,модель турбулентности ментера k-w sst
+74,lift coefficient,коэффициент подъемной силы
+75,lift interference factor,индукционный скос потока
+76,lifting equipment,подъемное оборудование
+77,mach number,число маха
+78,main fan,основной компрессор
+79,mass flow rate,"массовый расход (газа, жидкости)"
+80,master operations console,главный пульт управления
+81,mean aerodynamic chord,средняя аэродинамическая хорда крыла
+82,mean lift interference factor,индукционный скос потока осредненный по крылу
+83,mmss (main model support system),основная система крепления модели (оскм)
+84,model (reference) area,площадь модели
+85,model attitude,пространственное положение модели
+86,model cart,модельная тележка
+87,model incidence mechanism,механизм установки угла атаки модели
+88,model length,длина модели
+89,model positioning system,система позиционирования модели
+90,model support system,система крепления модели
+91,moving screen\belt,бегущий экран
+92,multiple jacks,несколько домкратов
+93,oil leakage,протечка масла
+94,oil pipe,маслопровод
+95,oil pipe burst,разрыв маслопровода
+96,operational states,режим работы
+97,operations console,пульт управления
+98,peak mode,максимальный режим
+99,performance testing,техническое тестирование
+100,pitch-pause traverse,движение «тангаж-пауза»
+101,plenum chamber,напорная камера
+102,plenum suction,система отсоса (воздуха) из камеры давления
+103,porosity coefficient,коэффициент проницаемости
+104,porosity parameter,параметр проницаемости
+105,porosity\perforation ratio,степень перфорации
+106,prandtl-glauert compressibility coefficient,коэффициент сжимаемости по прандтлю-глауэрту
+107,preload,предварительная нагрузка
+108,pressing force,сила прижима
+109,pressure port,отверстие для отбора давления
+110,pressure regulation valve (prv),клапан регулирования давления
+111,pressurised air,сжатый воздух
+112,process control,технологический контроль
+113,rear sting,донная державка
+114,recontouring,изменение контура
+115,repeatability,повторяемость
+116,rigidity,жесткость
+117,row step,шаг рядов
+118,safety screen,защитная сетка
+119,settling chamber,форкамера
+120,shut off valve,запорный\отсечный клапан
+121,side walls porosity coefficient,коэффициент проницаемости боковых стенок
+122,sideslip angle mechanism,механизма изменения угла скольжения
+123,smooth start/stop,плавный пуск/остановка
+124,solid block throat,твердое «горло»
+125,spalart-allmaras turbulence model,модель турбулентности спалатра-алмараса
+126,spanwise gradient,градиенты скоса по размаху
+127,stagnation temperature (потока),температура торможения
+128,starting mode,пусковой режим
+129,store,подвеска
+130,store release testing,испытания на отделение подвесного груза
+131,store separation,отделение подвесного груза
+132,straightener,спрямляющее устройство
+133,streamwise upwash gradient along the fuselage,градиенты скоса по длине модели
+134,strut/cranked sting,прямая/изогнутая хвостовая державка
+135,substitute control mechanism,резервные механизмы регулировки
+136,support reaction force,сила реакции опоры
+137,support strut,стойка державки
+138,test article,объект испытания
+139,test section,рабочая часть (адт)
+140,test sequence,цикл испытаний
+141,test support equipment,контрольно-испытательное оборудование
+142,the fit clearance of mating parts,зазор с сопряженными деталями
+143,throat,горло\критическое сечение сопла
+144,to retract and release,развести
+145,top wall porosity coefficient,коэффициент проницаемости верхней стенки
+146,total pressure of settling chamber ,полное давление в форкамере
+147,traversing,перемещение
+148,trisonic wind tunnel,трехрежимная адт
+149,ts area,площадь сечения рч
+150,ts half-height,полувысота рч
+151,ts half-width,полуширина рч
+152,tunnel circuit,внутренний канал аэродинамической трубы
+153,turbulence screen,детурбулизирующая сетка
+154,turntable,поворотный круг
+155,upstream,выше по потоку
+156,upwash (v/u),индукционный скос
+157,upwash gradients,градиенты скоса
+158,utilisation,загрузка
+159,vertical (side) walls porosity parameter,параметр проницаемости вертикальных (боковых) стенок
+160,wall interference,интерференция стенок
+161,wave cancellation performance,параметры гашения волн
+162,wing span,размах крыла
+163,"wing span to tunnel width ratio, l/2b",приведенный размах крыла
+164,"wing to ts area ratio, s/c",отношение площади модели к площади поперечного сечения рч
+165,? angle change mechanism,конструкция механизма изменения угла ?
+166,сlear aperture,световой диаметр
+167,сontraction,сужение
+168,top\upper wall,верхняя стенка
+169,bottom \ lower wall,нижняя стенка
