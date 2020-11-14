@@ -101,7 +101,7 @@ def message4all(text):
 
 @bot.message_handler(content_types=['text'])
 def get_text_messages(message):
-    
+    print(message)
     if message.text == "/start":
         save_users(message.from_user.id)
         bot.send_message(message.chat.id, 'С Вами авиационный глоссарий! Введите термин для перевода.')
