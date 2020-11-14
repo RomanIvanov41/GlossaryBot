@@ -1,1 +1,1 @@
-﻿bot: python glossarybot.py -p $PORT
+﻿web: python glossarybot.py -p $PORT
